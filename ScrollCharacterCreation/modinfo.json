@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "side": "Client",
+    "modid": "scrollcharactercreation",
+    "name": "Scroll in Character Creation",
+    "authors": [
+        "Kathanon"
+    ],
+    "description": "Adds scrollbars to the character creation window if needed.",
+    "version": "1.0.1",
+    "dependencies": {
+        "game": ""
+    }
+}
